@@ -1,4 +1,4 @@
-Exploratory data analysis on the diabetes dataset - This repository is having the python file and the diabetes dataset on which EDA is performed. 
+Exploratory data analysis on the diabetes dataset - This repository is having the jupyter notebook file and the diabetes dataset on which EDA is performed. 
 
 For interactive and better visualization, i have used plotly.express library. One can download and run these files on google colab to know about EDA.
 
